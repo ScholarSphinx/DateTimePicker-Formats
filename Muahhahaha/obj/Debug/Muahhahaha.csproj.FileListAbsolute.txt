@@ -1,0 +1,10 @@
+C:\Users\calvi\source\repos\Muahhahaha\bin\Debug\Muahhahaha.exe.config
+C:\Users\calvi\source\repos\Muahhahaha\bin\Debug\Muahhahaha.exe
+C:\Users\calvi\source\repos\Muahhahaha\bin\Debug\Muahhahaha.pdb
+C:\Users\calvi\source\repos\Muahhahaha\obj\Debug\Muahhahaha.csproj.AssemblyReference.cache
+C:\Users\calvi\source\repos\Muahhahaha\obj\Debug\Muahhahaha.Form1.resources
+C:\Users\calvi\source\repos\Muahhahaha\obj\Debug\Muahhahaha.Properties.Resources.resources
+C:\Users\calvi\source\repos\Muahhahaha\obj\Debug\Muahhahaha.csproj.GenerateResource.cache
+C:\Users\calvi\source\repos\Muahhahaha\obj\Debug\Muahhahaha.csproj.CoreCompileInputs.cache
+C:\Users\calvi\source\repos\Muahhahaha\obj\Debug\Muahhahaha.exe
+C:\Users\calvi\source\repos\Muahhahaha\obj\Debug\Muahhahaha.pdb
